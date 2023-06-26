@@ -1,0 +1,1 @@
+add_executable(my_reduce my_reduce.cu)

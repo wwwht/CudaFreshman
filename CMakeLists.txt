@@ -53,7 +53,7 @@ add_subdirectory(11_simple_sum_matrix2D)
 # add_subdirectory(37_asyncAPI)
 # add_subdirectory(38_stream_call_back)
 add_subdirectory(m0_warpafine)
-add_subdirectory(m_test)
+add_subdirectory(my_reduce)
 
 # set(CMAKE_BUILD_TYPE "Debug")
 # set(CMAKE_CXX_FLAGS_DEBUG "-O0 -Wall -g -ggdb")
