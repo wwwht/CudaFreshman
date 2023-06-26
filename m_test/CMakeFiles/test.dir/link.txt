@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test.dir/test_pointer.cpp.o  -o test   -L/home/wht/anaconda3/envs/pytorch/lib 

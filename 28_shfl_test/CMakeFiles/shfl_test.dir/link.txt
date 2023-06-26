@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/shfl_test.dir/shfl_test.cu.o -o shfl_test  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

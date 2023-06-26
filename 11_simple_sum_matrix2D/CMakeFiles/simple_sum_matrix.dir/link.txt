@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/simple_sum_matrix.dir/simple_sum_matrix.cu.o -o simple_sum_matrix  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

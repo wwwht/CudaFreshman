@@ -11,10 +11,12 @@ int main(int argc,char **argv)
 {
   int nElem=6;
   dim3 block(3);
+  printf("block.x = %d", block.x);
   dim3 grid((nElem+block.x-1)/block.x);
   printf("grid.x %d grid.y %d grid.z %d\n",grid.x,grid.y,grid.z);
   printf("block.x %d block.y %d block.z %d\n",block.x,block.y,block.z);
-  checkIndex<<<grid,block>>>();
+  // checkIndex<<<grid,block>>>();
+  checkIndex<<<1,10>>>();
   cudaDeviceReset();
   return 0;
 }

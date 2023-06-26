@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/asyncAPI.dir/asyncAPI.cu.o -o asyncAPI  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

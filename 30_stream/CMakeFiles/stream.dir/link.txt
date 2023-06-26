@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/stream.dir/stream.cu.o -o stream  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

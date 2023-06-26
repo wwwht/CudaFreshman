@@ -1,12 +1,13 @@
 # CUDA Freshman
 1. This project is a set of CUDA programs
 2. Some of them are from the book "Professional CUDA C Programming"
-3. The others are coded by myself
-4. You can get more details from the website [www.face2ai.com](http://www.face2ai.com)
-## 联系我
-![](./IMG_9066.JPG)
-## 博客
-具体内容可以访问博客：
+3. The others are coded by 谭升大佬！more details from the website [www.face2ai.com](http://www.face2ai.com)
+4. I just do some other work.
+## 新增内容：
+m0_warpfine : cuda warpfine实现
+m1_yolov5back : yolov5 后处理cuda实现
+
+## 谭生大佬博客
 - [0.0 腾讯云CUDA环境搭建](http://www.face2ai.com/CUDA-F-0-0-Tencent-GPU-Cloud/)
 - [1.0 并行计算与计算机架构](http://www.face2ai.com/CUDA-F-1-0-并行计算与计算机架构/)
 - [1.1 异构计算与CUDA](http://www.face2ai.com/CUDA-F-1-1-异构计算-CUDA/)

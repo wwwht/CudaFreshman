@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/sum_matrix2D.dir/sum_matrix2D.cu.o -o sum_matrix2D  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

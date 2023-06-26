@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/sum_arrays.dir/my_sum_array.cu.o -o sum_arrays  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

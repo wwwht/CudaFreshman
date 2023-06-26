@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/grid_block.dir/grid_block.cu.o -o grid_block  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

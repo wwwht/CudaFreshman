@@ -1,0 +1,11 @@
+/home/wht/Documents/test/CUDA_Freshman/CMakeFiles/rebuild_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/CMakeFiles/edit_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/11_simple_sum_matrix2D/CMakeFiles/rebuild_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/11_simple_sum_matrix2D/CMakeFiles/edit_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/11_simple_sum_matrix2D/CMakeFiles/simple_sum_matrix.dir
+/home/wht/Documents/test/CUDA_Freshman/m0_warpafine/CMakeFiles/rebuild_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/m0_warpafine/CMakeFiles/edit_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/m0_warpafine/CMakeFiles/warpafine.dir
+/home/wht/Documents/test/CUDA_Freshman/m_test/CMakeFiles/rebuild_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/m_test/CMakeFiles/edit_cache.dir
+/home/wht/Documents/test/CUDA_Freshman/m_test/CMakeFiles/test.dir

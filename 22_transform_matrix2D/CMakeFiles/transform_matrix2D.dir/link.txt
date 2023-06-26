@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/transform_matrix2D.dir/transform_matrix2D.cu.o -o transform_matrix2D  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

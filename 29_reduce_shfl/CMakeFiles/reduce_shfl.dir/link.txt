@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/reduce_shfl.dir/reduce_shfl.cu.o -o reduce_shfl  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

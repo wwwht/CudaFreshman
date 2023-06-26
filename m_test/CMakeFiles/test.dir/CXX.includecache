@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wht/Documents/test/CUDA_Freshman/m_test/test_pointer.cpp
+stdio.h
+-
+iostream
+-
+memory
+-
+

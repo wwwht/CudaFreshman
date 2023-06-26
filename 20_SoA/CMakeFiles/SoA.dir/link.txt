@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/SoA.dir/SoA.cu.o -o SoA  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl

@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 __global__ void hello_world(void)
 {
   printf("GPU: Hello world!\n");

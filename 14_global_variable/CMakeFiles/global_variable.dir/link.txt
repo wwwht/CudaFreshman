@@ -1,0 +1,1 @@
+/usr/bin/g++  CMakeFiles/global_variable.dir/global_variable.cu.o -o global_variable  -L"/home/wht/anaconda3/envs/pytorch/lib/stubs" -L"/home/wht/anaconda3/envs/pytorch/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl
